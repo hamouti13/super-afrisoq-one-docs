@@ -1,31 +1,13 @@
 module.exports = {
   docs: {
     'Getting Started': [
-      'intro',
-      'installation',
-      'system-requirements',
+      'README',
     ],
     'API Documentation': [
-      'api/overview',
-      'api/authentication',
-      'api/items',
-      'api/orders',
-      'api/stores',
+      'api',
     ],
     'Models': [
-      'models/item',
-      'models/order',
-      'models/store',
-    ],
-    'Security': [
-      'security/overview',
-      'security/authentication',
-      'security/rate-limiting',
-    ],
-    'Performance': [
-      'performance/optimization',
-      'performance/caching',
-      'performance/database',
+      'models',
     ],
   },
 };

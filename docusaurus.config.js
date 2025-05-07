@@ -1,13 +1,13 @@
 module.exports = {
   title: 'Super-Afrisoq Documentation',
   tagline: 'Documentation for Super-Afrisoq e-commerce platform',
-  url: 'https://docs.super-afrisoq.com',
-  baseUrl: '/',
+  url: 'https://hamouti13.github.io',
+  baseUrl: '/super-afrisoq-one-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Super-Afrisoq',
-  projectName: 'super-afrisoq-docs',
+  organizationName: 'hamouti13',
+  projectName: 'super-afrisoq-one-docs',
   themeConfig: {
     navbar: {
       title: 'Super-Afrisoq Docs',
@@ -18,12 +18,12 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'README',
           position: 'left',
           label: 'Documentation',
         },
         {
-          href: 'https://github.com/Super-Afrisoq',
+          href: 'https://github.com/hamouti13',
           label: 'GitHub',
           position: 'right',
         },
@@ -37,7 +37,7 @@ module.exports = {
           items: [
             {
               label: 'Getting Started',
-              to: '/docs/intro',
+              to: '/docs/README',
             },
           ],
         },
@@ -46,17 +46,12 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/Super-Afrisoq',
+              href: 'https://github.com/hamouti13',
             },
           ],
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Super-Afrisoq, Inc. Built with Docusaurus.`,
-    },
-    algolia: {
-      appId: 'YOUR_APP_ID',
-      apiKey: 'YOUR_SEARCH_API_KEY',
-      indexName: 'super_afrisoq_docs',
     },
   },
   presets: [
@@ -65,7 +60,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/Super-Afrisoq/docs/edit/main/',
+          editUrl: 'https://github.com/hamouti13/super-afrisoq-one-docs/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
