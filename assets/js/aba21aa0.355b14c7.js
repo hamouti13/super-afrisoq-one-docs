@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksuper_afrisoq_docs=self.webpackChunksuper_afrisoq_docs||[]).push([[742],{7093:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
