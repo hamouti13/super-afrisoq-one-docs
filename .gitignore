@@ -18,3 +18,4 @@ yarn-error.log*
 
 # GitHub Pages
 .github/workflows
+static

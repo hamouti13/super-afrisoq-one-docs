@@ -2,7 +2,7 @@ module.exports = {
   title: 'Super-Afrisoq Documentation',
   tagline: 'Documentation for Super-Afrisoq e-commerce platform',
   url: 'https://hamouti13.github.io',
-  baseUrl: '/super-afrisoq-one-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
   favicon: 'img/favicon.ico',
@@ -68,4 +68,6 @@ module.exports = {
       },
     ],
   ],
+  staticDirectories: ['static'],
+  trailingSlash: true,
 };
