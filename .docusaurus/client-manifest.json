@@ -1,0 +1,175 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "42": [
+      42
+    ],
+    "17896441": [
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "23374ca6": [
+      278
+    ],
+    "5e95c892": [
+      647
+    ],
+    "5fbc5cf1": [
+      624
+    ],
+    "6bb949c2": [
+      998
+    ],
+    "6f8f053e": [
+      664
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "styles": [
+      48,
+      354,
+      401,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "42": {
+      "js": [
+        {
+          "file": "assets/js/42.39d91d0b.js",
+          "hash": "243d6c010e8a430e",
+          "publicPath": "/super-afrisoq-one-docs/assets/js/42.39d91d0b.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.a7f7831e.js",
+          "hash": "521e9b43c0929cac",
+          "publicPath": "/super-afrisoq-one-docs/assets/js/a94703ab.a7f7831e.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.4810cd3e.js",
+          "hash": "7fa921889133485a",
+          "publicPath": "/super-afrisoq-one-docs/assets/js/a7bd4aaa.4810cd3e.js"
+        }
+      ]
+    },
+    "278": {
+      "js": [
+        {
+          "file": "assets/js/23374ca6.87df5c09.js",
+          "hash": "8b57a003e6f99f09",
+          "publicPath": "/super-afrisoq-one-docs/assets/js/23374ca6.87df5c09.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.56d25cd3.js",
+          "hash": "8d8d4239ca234a91",
+          "publicPath": "/super-afrisoq-one-docs/assets/js/runtime~main.56d25cd3.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.592ca187.js",
+          "hash": "222ad3bd00fbc83e",
+          "publicPath": "/super-afrisoq-one-docs/assets/js/17896441.592ca187.js"
+        }
+      ]
+    },
+    "624": {
+      "js": [
+        {
+          "file": "assets/js/5fbc5cf1.bae8410d.js",
+          "hash": "181f9093bc558924",
+          "publicPath": "/super-afrisoq-one-docs/assets/js/5fbc5cf1.bae8410d.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.238ffa0c.js",
+          "hash": "5440dbf0f692b26e",
+          "publicPath": "/super-afrisoq-one-docs/assets/js/5e95c892.238ffa0c.js"
+        }
+      ]
+    },
+    "664": {
+      "js": [
+        {
+          "file": "assets/js/6f8f053e.cfb1ce2b.js",
+          "hash": "12c2544aaf55c664",
+          "publicPath": "/super-afrisoq-one-docs/assets/js/6f8f053e.cfb1ce2b.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.355b14c7.js",
+          "hash": "711119bdc0dd58a1",
+          "publicPath": "/super-afrisoq-one-docs/assets/js/aba21aa0.355b14c7.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.d3ee5674.js",
+          "hash": "37abe9115fe9cf73",
+          "publicPath": "/super-afrisoq-one-docs/assets/js/main.d3ee5674.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.da5c5ffc.css",
+          "hash": "97b1550c95e89909",
+          "publicPath": "/super-afrisoq-one-docs/assets/css/styles.da5c5ffc.css"
+        }
+      ]
+    },
+    "998": {
+      "js": [
+        {
+          "file": "assets/js/6bb949c2.8e450ce1.js",
+          "hash": "e86087f948c2adb2",
+          "publicPath": "/super-afrisoq-one-docs/assets/js/6bb949c2.8e450ce1.js"
+        }
+      ]
+    }
+  }
+}
