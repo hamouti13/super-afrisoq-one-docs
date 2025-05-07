@@ -94,7 +94,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.56d25cd3.js",
-          "hash": "8d8d4239ca234a91",
+          "hash": "665e865007da51cf",
           "publicPath": "/super-afrisoq-one-docs/assets/js/runtime~main.56d25cd3.js"
         }
       ]
@@ -147,9 +147,9 @@
     "792": {
       "js": [
         {
-          "file": "assets/js/main.d3ee5674.js",
-          "hash": "37abe9115fe9cf73",
-          "publicPath": "/super-afrisoq-one-docs/assets/js/main.d3ee5674.js"
+          "file": "assets/js/main.0764d9dc.js",
+          "hash": "cb08fa7640b87403",
+          "publicPath": "/super-afrisoq-one-docs/assets/js/main.0764d9dc.js"
         }
       ]
     },
